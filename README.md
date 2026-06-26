@@ -126,18 +126,19 @@ However, all docking observations remain exploratory computational predictions. 
 
 ---
 
+## Acknowledgements
+
+This project was completed as part of a postgraduate diploma mini-project focused on computational structural bioinformatics, reproducibility-aware analysis and scientific interpretation of uncharacterized proteins.
+
+---
+
 ## Author
 
 **LNS Sthavitha Rithu**
 
 PG Diploma in Bioinformatics, Genomics and Data Science
+
 Bversity School of Biosciences
-
----
-
-## Acknowledgements
-
-This project was completed as part of a postgraduate diploma mini-project focused on computational structural bioinformatics, reproducibility-aware analysis and scientific interpretation of uncharacterized proteins.
 
 ---
 
