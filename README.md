@@ -1,4 +1,4 @@
-# Computational Structural Characterization of Human C6orf47
+# Computational Structural Characterization of Human C6orf47 protein
 
 Computational structural characterization of the human uncharacterized protein C6orf47 using AlphaFold, intrinsic disorder prediction, pocket detection, evolutionary conservation analysis and exploratory molecular docking.
 
@@ -129,6 +129,7 @@ However, all docking observations remain exploratory computational predictions. 
 ## Author
 
 **LNS Sthavitha Rithu**
+
 PG Diploma in Bioinformatics, Genomics and Data Science
 Bversity School of Biosciences
 
